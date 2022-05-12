@@ -1,0 +1,4 @@
+#忽略index.css文件
+index.css
+#忽略test问价夹下的文件
+test/
